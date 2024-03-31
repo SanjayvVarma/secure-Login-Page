@@ -1,0 +1,27 @@
+.signin{
+    background-color: brown;
+    color: #fff;
+    padding: 5rem 10rem;
+    width: fit-content;
+    margin-left: 34%;
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .singnin-link{
+        color: #08fc18;
+    }
+
+    button {
+        font-size: 15px;
+        padding: 6px 10px;
+        background: #0164C9;
+        color: #fff;
+        margin: 1rem;
+    }
+
+    button:hover{
+        background-color: #5900ff;
+    }
+}

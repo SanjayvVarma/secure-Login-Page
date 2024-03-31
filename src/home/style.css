@@ -1,0 +1,32 @@
+body {
+    background: #0164C9;
+
+}
+
+.home {
+    background-color: brown;
+    color: #fff;
+    padding: 5rem;
+    width: fit-content;
+    margin-left: 25%;
+
+    h1 {
+        font-size: 40px;
+    }
+}
+
+.home-btn {
+    display: flex;
+    justify-content: space-evenly;
+
+    button {
+        font-size: 20px;
+        padding: 6px 10px;
+        background: #0164C9;
+        color: #fff;
+    }
+
+    button:hover{
+        background-color: #5900ff;
+    }
+}
